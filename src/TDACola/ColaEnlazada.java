@@ -47,6 +47,9 @@ public class ColaEnlazada<E> implements Queue<E>{
 		return toReturn.getElemento();
 		
 		
+		
+		
+		
 	}
 	
 }
